@@ -41,7 +41,7 @@ macOS 15 Sequoia or later, Apple Silicon or Intel.
 
 ## Privacy
 
-Windrow sends nothing over the network and collects no data. Window titles stay on your Mac.
+Windrow collects and sends no data about you. Its only connection is a check for a new version on GitHub, about once a day; you can turn it off in Settings → General. Window titles never leave your Mac.
 
 ---
 
@@ -50,3 +50,5 @@ Windrow sends nothing over the network and collects no data. Window titles stay 
 **Навіщо.** Я постійно працюю з дуже великою кількістю вікон. Те, як їх організовано в стандартній macOS, лише додає хаосу. macOS позиціонує себе як систему для продуктивної роботи, але такий підхід не робить роботу за комп'ютером ні продуктивнішою, ні зручнішою, ні спокійнішою. Моя мета — повернути в роботу спокій і фокус. Тому я зробив цю панель і користуюся нею щодня.
 
 Windrow — бічна панель, де кожне відкрите вікно стоїть окремим рядком з іконкою й назвою; клік переводить у вікно. Потрібна macOS 15 або новіша. Завантажте `.dmg` з розділу [Releases](../../releases), перетягніть Windrow у «Програми», під час першого запуску відкрийте його через Системні параметри → Конфіденційність і безпека → «Усе одно відкрити» й видайте дозвіл Accessibility.
+
+**Приватність.** Windrow не збирає й не надсилає жодних даних про вас. Його єдине з'єднання з мережею — перевірка нової версії на GitHub, приблизно раз на добу; її можна вимкнути в Налаштування → Загальне. Назви вікон ніколи не залишають ваш Mac.
