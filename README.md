@@ -3,6 +3,8 @@
 <h1 align="center">Windrow</h1>
 <p align="center">Vertical window list for Mac</p>
 
+<p align="center"><b><a href="https://github.com/simplaerai-sv/windrow-app/releases/latest">Download the latest version (.dmg)</a></b></p>
+
 <p align="center"><img src="screenshot.png" width="860" alt="Windrow panel on the right edge of a macOS desktop"></p>
 
 Windrow is a slim panel at the side of the screen that lists **every open window as its own row** — icon and title — like the vertical taskbar of Windows. Click a row to switch to that window.
@@ -23,6 +25,7 @@ My goal is to bring calm and focus back to work. So I built this panel, and I us
 - Fold the panel to a strip of icons; optional auto-hide on hover.
 - Drag rows to arrange apps and windows your way; the order is remembered.
 - Window thumbnails on hover.
+- Clock with a three-week calendar and the current keyboard layout on the panel.
 - Themes, background and accent colours, compact or larger rows.
 - Experimental: windows from other desktops, with a click switching to that desktop.
 - 11 languages: English, Українська, Español, Deutsch, Français, Português (Brasil), Italiano, 日本語, 简体中文, 한국어, Polski.
@@ -46,6 +49,8 @@ Windrow collects and sends no data about you. Its only connection is a check for
 ---
 
 ### Українською
+
+**Завантажити:** [остання версія (.dmg)](https://github.com/simplaerai-sv/windrow-app/releases/latest)
 
 **Навіщо.** Я постійно працюю з дуже великою кількістю вікон. Те, як їх організовано в стандартній macOS, лише додає хаосу. macOS позиціонує себе як систему для продуктивної роботи, але такий підхід не робить роботу за комп'ютером ні продуктивнішою, ні зручнішою, ні спокійнішою. Моя мета — повернути в роботу спокій і фокус. Тому я зробив цю панель і користуюся нею щодня.
 
