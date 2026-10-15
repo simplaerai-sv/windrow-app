@@ -42,6 +42,8 @@ macOS 15 Sequoia or later, Apple Silicon or Intel.
 4. Allow **Accessibility** when Windrow asks — it is needed to see windows and switch between them.
 5. Optional: allow **Screen Recording** for thumbnail pictures. Without it thumbnails show only the title.
 
+**About “Source code” on the release page.** GitHub adds “Source code (zip)” and “Source code (tar.gz)” to every release automatically. They contain only this README and the pictures, not the app's code. Windrow itself is the `.dmg` file.
+
 ## Privacy
 
 Windrow collects and sends no data about you. Its only connection is a check for a new version on GitHub, about once a day; you can turn it off in Settings → General. Window titles never leave your Mac.
@@ -54,6 +56,6 @@ Windrow collects and sends no data about you. Its only connection is a check for
 
 **Навіщо.** Я постійно працюю з дуже великою кількістю вікон. Те, як їх організовано в стандартній macOS, лише додає хаосу. macOS позиціонує себе як систему для продуктивної роботи, але такий підхід не робить роботу за комп'ютером ні продуктивнішою, ні зручнішою, ні спокійнішою. Моя мета — повернути в роботу спокій і фокус. Тому я зробив цю панель і користуюся нею щодня.
 
-Windrow — бічна панель, де кожне відкрите вікно стоїть окремим рядком з іконкою й назвою; клік переводить у вікно. Потрібна macOS 15 або новіша. Завантажте `.dmg` з розділу [Releases](../../releases), перетягніть Windrow у «Програми», під час першого запуску відкрийте його через Системні параметри → Конфіденційність і безпека → «Усе одно відкрити» й видайте дозвіл Accessibility.
+Windrow — бічна панель, де кожне відкрите вікно стоїть окремим рядком з іконкою й назвою; клік переводить у вікно. Потрібна macOS 15 або новіша. Завантажте `.dmg` з розділу [Releases](../../releases), перетягніть Windrow у «Програми», під час першого запуску відкрийте його через Системні параметри → Конфіденційність і безпека → «Усе одно відкрити» й видайте дозвіл Accessibility. Архіви «Source code» на сторінці релізу GitHub додає сам; у них лише цей опис і картинки, а програма — це файл `.dmg`.
 
 **Приватність.** Windrow не збирає й не надсилає жодних даних про вас. Його єдине з'єднання з мережею — перевірка нової версії на GitHub, приблизно раз на добу; її можна вимкнути в Налаштування → Загальне. Назви вікон ніколи не залишають ваш Mac.
