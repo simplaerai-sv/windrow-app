@@ -12,6 +12,18 @@ Windrow is a slim panel at the side of the screen that lists **every open window
 <p align="center"><img src="screenshot-folded.png" width="860" alt="Windrow folded to a strip of icons, with a window thumbnail"></p>
 <p align="center"><em>Folded to a strip of icons, with a thumbnail on hover.</em></p>
 
+<p align="center"><img src="screenshot-launcher.png" width="860" alt="Windrow app launcher beside the panel: search, favorites, recent apps, folders"></p>
+<p align="center"><em>The app launcher: favorites, recent apps and all apps in your own folders.</em></p>
+
+<p align="center"><img src="screenshot-launcher-folder.png" width="860" alt="An open folder in the app launcher, with a star on hover"></p>
+<p align="center"><em>Point at a folder to open it; star any app to keep it in Favorites.</em></p>
+
+<p align="center"><img src="screenshot-launcher-search.png" width="860" alt="Searching for apps in the launcher"></p>
+<p align="center"><em>Type to search, in any keyboard layout.</em></p>
+
+<p align="center"><img src="screenshot-launcher-folded.png" width="860" alt="The app launcher opened from the folded strip"></p>
+<p align="center"><em>It opens from the folded strip too.</em></p>
+
 ## Why I made it
 
 I work with a lot of windows — many of them, all day long. The way standard macOS organises them only adds to the chaos: the Dock shows one button per app, and finding the right window means guessing through thumbnails. macOS presents itself as a system for productive work, but this approach makes working at the computer neither more productive nor calmer.
@@ -26,6 +38,7 @@ My goal is to bring calm and focus back to work. So I built this panel, and I us
 - Drag rows to arrange apps and windows your way; the order is remembered.
 - Window thumbnails on hover.
 - Clock with a three-week calendar and the current keyboard layout on the panel.
+- App launcher: the Apps button or Shift+Option+Space — search, favorites, recent apps and your own folders, which an AI can arrange for you.
 - Themes, background and accent colours, compact or larger rows.
 - Experimental: windows from other desktops, with a click switching to that desktop.
 - 11 languages: English, Українська, Español, Deutsch, Français, Português (Brasil), Italiano, 日本語, 简体中文, 한국어, Polski.
@@ -56,6 +69,6 @@ Windrow collects and sends no data about you. Its only connection is a check for
 
 **Навіщо.** Я постійно працюю з дуже великою кількістю вікон. Те, як їх організовано в стандартній macOS, лише додає хаосу. macOS позиціонує себе як систему для продуктивної роботи, але такий підхід не робить роботу за комп'ютером ні продуктивнішою, ні зручнішою, ні спокійнішою. Моя мета — повернути в роботу спокій і фокус. Тому я зробив цю панель і користуюся нею щодня.
 
-Windrow — бічна панель, де кожне відкрите вікно стоїть окремим рядком з іконкою й назвою; клік переводить у вікно. Потрібна macOS 15 або новіша. Завантажте `.dmg` з розділу [Releases](../../releases), перетягніть Windrow у «Програми», під час першого запуску відкрийте його через Системні параметри → Конфіденційність і безпека → «Усе одно відкрити» й видайте дозвіл Accessibility. Архіви «Source code» на сторінці релізу GitHub додає сам; у них лише цей опис і картинки, а програма — це файл `.dmg`.
+Windrow — бічна панель, де кожне відкрите вікно стоїть окремим рядком з іконкою й назвою; клік переводить у вікно. Кнопка «Програми» під годинником або Shift+Option+Пробіл відкриває запуск програм: пошук, обрані, недавні й власні папки. Потрібна macOS 15 або новіша. Завантажте `.dmg` з розділу [Releases](../../releases), перетягніть Windrow у «Програми», під час першого запуску відкрийте його через Системні параметри → Конфіденційність і безпека → «Усе одно відкрити» й видайте дозвіл Accessibility. Архіви «Source code» на сторінці релізу GitHub додає сам; у них лише цей опис і картинки, а програма — це файл `.dmg`.
 
 **Приватність.** Windrow не збирає й не надсилає жодних даних про вас. Його єдине з'єднання з мережею — перевірка нової версії на GitHub, приблизно раз на добу; її можна вимкнути в Налаштування → Загальне. Назви вікон ніколи не залишають ваш Mac.
