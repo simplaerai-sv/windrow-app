@@ -39,7 +39,7 @@ My goal is to bring calm and focus back to work. So I built this panel, and I us
 ## Features
 
 - Every window of every display, grouped by display; Finder, Terminal and TextEdit tabs as separate rows.
-- Click to switch, click the active row to minimize; a Dock-like right-click menu.
+- Click to switch, click the active row to minimize; a Dock-like right-click menu that can also center a lost window, bring it from another desktop or put it into a zone.
 - Fold the panel to a strip of icons; optional auto-hide on hover.
 - Drag rows to arrange apps and windows your way; the order is remembered.
 - Window thumbnails on hover.
@@ -76,6 +76,6 @@ Windrow collects and sends no data about you. Its only connection is a check for
 
 **Навіщо.** Я постійно працюю з дуже великою кількістю вікон. Те, як їх організовано в стандартній macOS, лише додає хаосу. macOS позиціонує себе як систему для продуктивної роботи, але такий підхід не робить роботу за комп'ютером ні продуктивнішою, ні зручнішою, ні спокійнішою. Моя мета — повернути в роботу спокій і фокус. Тому я зробив цю панель і користуюся нею щодня.
 
-Windrow — бічна панель, де кожне відкрите вікно стоїть окремим рядком з іконкою й назвою; клік переводить у вікно. Кнопка «Програми» під годинником або Shift+Option+Пробіл відкриває запуск програм: пошук, обрані, недавні й власні папки. Зони вікон: намалюйте зони для кожного монітора й тягніть вікно із Shift, щоб поставити його в зону. Потрібна macOS 15 або новіша. Завантажте `.dmg` з розділу [Releases](../../releases), перетягніть Windrow у «Програми», під час першого запуску відкрийте його через Системні параметри → Конфіденційність і безпека → «Усе одно відкрити» й видайте дозвіл Accessibility. Архіви «Source code» на сторінці релізу GitHub додає сам; у них лише цей опис і картинки, а програма — це файл `.dmg`.
+Windrow — бічна панель, де кожне відкрите вікно стоїть окремим рядком з іконкою й назвою; клік переводить у вікно. Кнопка «Програми» під годинником або Shift+Option+Пробіл відкриває запуск програм: пошук, обрані, недавні й власні папки. Зони вікон: намалюйте зони для кожного монітора й тягніть вікно із Shift, щоб поставити його в зону. Меню правого кліку по рядку ставить загублене вікно по центру, переносить його з іншого робочого столу чи ставить у зону. Потрібна macOS 15 або новіша. Завантажте `.dmg` з розділу [Releases](../../releases), перетягніть Windrow у «Програми», під час першого запуску відкрийте його через Системні параметри → Конфіденційність і безпека → «Усе одно відкрити» й видайте дозвіл Accessibility. Архіви «Source code» на сторінці релізу GitHub додає сам; у них лише цей опис і картинки, а програма — це файл `.dmg`.
 
 **Приватність.** Windrow не збирає й не надсилає жодних даних про вас. Його єдине з'єднання з мережею — перевірка нової версії на GitHub, приблизно раз на добу; її можна вимкнути в Налаштування → Загальне. Назви вікон ніколи не залишають ваш Mac.
